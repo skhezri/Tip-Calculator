@@ -1,5 +1,5 @@
 # Tip-Calculator
-# Project 1 - *Name of App Here*
+# Project 1 - KHEZRI
 
 KHEZRI is a tip calculator application for iOS.
 
